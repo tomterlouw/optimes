@@ -3,7 +3,7 @@ Code and repository for the optimization of multi-energy systems.
  
  This code can be used to optimize a (decentralized) multi-energy system (MES) considering different energy sectors: residential households, local industry, and personal mobility. To achieve this, a mixed integer linear program is formulated that optimally designs the MES on costs and/or a life cycle environmental impact category. The full formulation and explanation are provided in the scientific references below.
 
- Here, the problem is applied to the Kissamos region in Crete (Greece), but an (almost) identical problem has been applied to Eigerøy (Norway) during H2020 ROBINSON (https://www.robinson-h2020.eu/). It is worth noting that confidential data for the local industry (bakery industry) and the life cycle inventory for the advanced CHP unit are removed from this repository; they should be exluded or replaced with own or dummy data.
+ Here, the problem is applied to the Kissamos region in Crete (Greece), but an (almost) identical problem has been applied to Eigerøy (Norway) during H2020 ROBINSON (https://www.robinson-h2020.eu/). It is worth noting that confidential data for the local industry (bakery industry) and the life cycle inventory for the advanced CHP unit are removed from this repository; they should be replaced with own (or dummy) data.
 
 <div style="text-align:center">
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0306261923007389-ga1_lrg.jpg" height="450"/>
@@ -21,7 +21,7 @@ To run this repository or to use the code one needs:
 - You will also need a local license key for Gurobi, see: https://support.gurobi.com/hc/en-us/articles/12872879801105-How-do-I-retrieve-and-set-up-a-Gurobi-license 
 - If considering environmental burdens in the optimization problem, one also needs access and a license for the ecoinvent database to access the LCA database:
 https://ecoinvent.org/database/.
-- Python package and dependencies are listed in the file ``env_optimess.yml``.
+- Python package and dependencies are listed in the file ``env_optimes.yml``.
 
 Citing and scientific references
 ====================

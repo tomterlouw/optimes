@@ -27,8 +27,8 @@ Citing and scientific references
 ====================
 
 Please cite (one of) the following papers if using this repository, data, and/or (some of) the code:
-- Terlouw, T., Savvakis, N. Bauer, C., McKenna, R., Arampatzis, G. (2024). Designing multi-energy systems in Mediterranean regions towards energy autonomy. Applied Energy [in review].
-- Terlouw, T., Gabrielli, P., AlSkaif, T., Bauer, C., McKenna, R., & Mazzotti, M. (2023). Optimal economic and environmental design of multi-energy systems. Applied Energy, 347, 121374. https://doi.org/10.1016/j.apenergy.2023.121374  
+- Terlouw, T., Savvakis, N. Bauer, C., McKenna, R., Arampatzis, G. (2024). Designing multi-energy systems in Mediterranean regions towards energy autonomy. Applied Energy, 377, Volume B, 124458, https://doi.org/10.1016/j.apenergy.2024.124458. 
+- Terlouw, T., Gabrielli, P., AlSkaif, T., Bauer, C., McKenna, R., & Mazzotti, M. (2023). Optimal economic and environmental design of multi-energy systems. Applied Energy, 347, 121374. https://doi.org/10.1016/j.apenergy.2023.121374. 
 
 For the license, please refer to the ``LICENSE`` file.
 
